@@ -8,3 +8,6 @@
       1. Good for arduino
    3. [Every Single Makefile I've made](/LearningNotes/makefiles)
    4. [A more detailed tour of a Makefile project setup](https://youtu.be/vybdPTfNLo4)
+2. [Various Programming/CS Resources and Videos](/LearningNotes/various)
+3. [ChatGPT](/LearningNotes/chatgpt)
+4. [Writing Maintainable Code](/LearningNotes/maintainablecode)
