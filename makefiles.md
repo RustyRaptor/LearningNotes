@@ -2,6 +2,14 @@
 
 ## Makefiles
 
+#### List of learning resources
+
+1. [Quick Intro Video but nuanced enough for advanced setups. ](https://www.youtube.com/watch?v=yWLkyN_Satk)
+2. [Setting up a whole toolchain for an embedded system with GCC and a makefile. ](https://www.youtube.com/watch?v=HCfq44NNBaU)
+    1. Good for arduino
+3. [Every Single Makefile I've made](/LearningNotes/makefiles)
+4. [A more detailed tour of a Makefile project setup](https://youtu.be/vybdPTfNLo4)
+
 #### This is a list of almost every makefile I've made
 
 1. [Very Simple C Program](https://github.com/RustyRaptor/ProgrammingLanguages/blob/ce9fc5ef9c598e6280309840db3d0cd3e01805b7/PA001/Makefile)
