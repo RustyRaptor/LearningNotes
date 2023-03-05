@@ -9,3 +9,4 @@
 3. ["clean" code horrible performance](https://www.youtube.com/watch?v=tD5NrevFtbU)
    1. A video which highlights how focusing on writing clean code can lead to serious performance issues.
    2. It's important to adopt clean code practices but it's also important to understand their downsides and think about whether some are worth the cost. 
+4[. A Pretty well argued take on commenting code.](https://youtu.be/Bf7vDBBOBUA)
